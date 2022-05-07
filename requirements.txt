@@ -1,0 +1,7 @@
+cx_Freeze==6.10
+docx==0.2.4
+docx2pdf==0.1.8
+matplotlib==3.5.2
+pandas==1.4.1
+PyPDF2==1.27.12
+win32gui==221.6
